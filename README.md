@@ -26,7 +26,7 @@
 * **Automation Testing:** Playwright (JS/TS), Selenium WebDriver (TestNG, Cucumber), Rest Assured (API), Appium (Mobile)
 * **Manual & API Testing:** Postman, Swagger, Functional, Regression, Integration, Exploratory Testing
 * **Performance & Security:** Apache JMeter, OWASP Top 10 Testing, Input Validation Testing
-* **DevOps & CI/CD:** Jenkins, Azure DevOps Pipelines, Docker, Git, GitHub
+* **DevOps & CI/CD:** Jenkins, Azure QA DevOps Pipelines, Docker, Git, GitHub
 * **Build Tools & Frameworks:** Maven, TestNG, Cucumber, Page Object Model (POM)
 * **Management & Methodologies:** Jira, Agile/Scrum, Defect Lifecycle Management
 
