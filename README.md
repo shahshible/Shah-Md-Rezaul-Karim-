@@ -50,7 +50,7 @@ Postman, Swagger, Functional Testing, Regression Testing, Integration Testing, E
 Apache JMeter, OWASP Top 10 Testing, Input Validation Testing
 
 ### DevOps and Continuous Integration
-Jenkins, Azure DevOps Pipelines, Docker, Git, GitHub
+Jenkins, Azure DevOps Pipelines, Docker, Git, GitHub,Git Action 
 
 ### Build Tools and Frameworks
 Maven, TestNG, Cucumber, Page Object Model
