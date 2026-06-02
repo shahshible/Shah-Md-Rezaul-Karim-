@@ -8,7 +8,7 @@ I am an early adopter of AI and emerging QA paradigms, skilled in architecting m
 
 Click the links below to download my complete, formatted CV directly from this repository:
 
-<a href="Shah_Md_Rezaul_Karim_SQA_Updated_10.docx" download>Click here to download my CV (Word Document)</a>
+<a href="Shah_Md_Rezaul_Karim_SQA_Updated.docx" download>Click here to download my CV (Word Document)</a>
 
 <a href="Shah_Md_Rezaul_Karim_SQA_Updated_10.pdf" download>Click here to download my CV (PDF Document)</a>
 
