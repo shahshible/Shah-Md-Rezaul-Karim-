@@ -10,7 +10,7 @@ Click the links below to download my complete, formatted CV directly from this r
 
 <a href="Shah_Md_Rezaul_Karim_SQA_Updated.docx" download>Click here to download my CV (Word Document)</a>
 
-<a href="Shah_Md_Rezaul_Karim_SQA_Updated_10.pdf" download>Click here to download my CV (PDF Document)</a>
+<a href="Shah Md Rezaul Karim SQA CV.pdf" download>Click here to download my CV (PDF Document)</a>
 
 ## Contact Information
 
