@@ -1,73 +1,107 @@
+# Shah Md Rezaul Karim
 
-# SHAH MD REZAUL KARIM
-### Software Quality Assurance (SQA) Engineer
- Sabujbagh, Dhaka South 1214, Bangladesh | 📱 +8801884711107 | ✉️ shah.shible12@gmail.com
+Hi there and welcome to my profile. I am an ISTQB Certified Software Quality Assurance Engineer with 4 years of real-world experience delivering high-quality Web, SaaS, OTA, API, and Mobile applications. I specialize in transforming manual testing workflows into robust automated pipelines, successfully cutting regression cycles by up to 70 percent. 
 
----
+I am an early adopter of AI and emerging QA paradigms, skilled in architecting maintainable automation frameworks from the ground up and leveraging Generative AI tools, Copilot, Claude Code AI, Prompt Engineering, and building AI or ML driven testing solutions alongside autonomous AI Agent testing. I am a strong advocate for shift-left testing within Agile or Scrum environments, deeply experienced in mitigating security risks via OWASP Top 10 validation, optimizing performance with JMeter, and embedding automated quality gates directly into CI or CD pipelines.
 
-### 📄 Download Full CV
-* [📥 Download PDF Copy](Shah_Md_Rezaul_Karim_SQA_CV_v11.pdf)
-* [📥 Download Word Document](Shah_Md_Rezaul_Karim_SQA_CV_v11.docx)
+## Download My Resume
 
----
+Click the links below to download my complete, formatted CV directly from this repository:
 
-## 🎯 Professional Summary
-* **ISTQB Certified Software Quality Assurance (SQA) Engineer** with 4 years of real-world experience delivering high-quality Web, SaaS, OTA, API, and Mobile applications.
-* Proven expertise in transforming manual testing workflows into robust automated pipelines, successfully cutting regression cycles by up to **70%**.
-* Adept at architecting maintainable automation frameworks from the ground up using **Playwright, Selenium, and Rest Assured**.
-* An early adopter of AI and emerging QA paradigms, skilled in leveraging **Generative AI tools, Copilot, Prompt Engineering**, and building AI/ML-driven testing solutions alongside autonomous AI Agent testing.
-* A strong advocate for shift-left testing within Agile/Scrum environments, deeply experienced in mitigating security risks via **OWASP Top 10** validation, optimizing performance with **JMeter**, and embedding automated quality gates directly into CI/CD pipelines.
+<a href="Shah_Md_Rezaul_Karim_SQA_Updated_10.docx" download>Click here to download my CV (Word Document)</a>
 
----
+<a href="Shah_Md_Rezaul_Karim_SQA_Updated_10.pdf" download>Click here to download my CV (PDF Document)</a>
 
-## 🛠️ Technical Skills
-* **Programming Languages:** Java, JavaScript, TypeScript, Python
-* **AI & Emerging Technologies:** Prompt Engineering, Generative AI tools & Copilot, AI/ML-based QA Testing, AI Agent Testing
-* **Automation Testing:** Playwright (JS/TS), Selenium WebDriver (TestNG, Cucumber), Rest Assured (API), Appium (Mobile)
-* **Manual & API Testing:** Postman, Swagger, Functional, Regression, Integration, Exploratory Testing
-* **Performance & Security:** Apache JMeter, OWASP Top 10 Testing, Input Validation Testing
-* **DevOps & CI/CD:** Jenkins, Azure QA DevOps Pipelines, Docker, Git, GitHub
-* **Build Tools & Frameworks:** Maven, TestNG, Cucumber, Page Object Model (POM)
-* **Management & Methodologies:** Jira, Agile/Scrum, Defect Lifecycle Management
+## Contact Information
 
----
+* Address 69/2/A Kodomtola, Basabo, Sabujbagh, Dhaka South 1214
+* Phone +8801884711107
+* Email shah.shible12@gmail.com
+* LinkedIn linkedin.com/in/shah-md-rezaul-karim-sqa
+* GitHub github.com/shahshible
 
-## 🎖️ Certification
-* **ISTQB Certified Tester Foundation Level (CTFL)**
-  * *Global Software Testing Board | License No: Available upon request | Jan 2023*
+## Core Competencies
 
----
+### Programming Languages
+Java, JavaScript, TypeScript, Python
 
-## 💼 Professional Experience
+### AI and Emerging Technologies
+Claude Code AI, Prompt Engineering, Generative AI tools and Copilot, AI and ML based QA Testing, AI Agent Testing
 
-### **SQA Engineer** | Akashbari Holidays, Banani, Dhaka
-*Jan 2025 – Present*
-* Formulate comprehensive test plans, test scenarios, and matrix-backed test cases for high-traffic SaaS and Online Travel Agency (OTA) applications.
-* Execute rigorous functional, regression, API, and exploratory testing to ensure zero-defect leakage into production.
-* Integrate Generative AI tools and Prompt Engineering techniques to accelerate test case generation and test data workflows.
-* Collaborate closely with cross-functional development and product teams within an Agile/Scrum framework.
+### Technical Proficiencies and Frameworks
+AutoGen, MCP Protocol
 
-### **SQA Engineer** | South Maguri Solution, Banani, Dhaka
-*Jan 2024 – Jan 2025*
-* Boosted regression testing efficiency by **70%** by designing and maintaining robust automated test suites using Selenium WebDriver, TestNG, and Maven.
+### AI Concepts
+LLM integration, Multi-agent systems, Context engineering
+
+### Tools Integration
+MySQL, REST APIs, Excel, Web browsers, Jira
+
+### Architectural Patterns
+Agent Factory, State management, Autonomous workflows
+
+### Automation Testing
+Playwright with JavaScript and TypeScript, Selenium WebDriver with TestNG and Cucumber, Rest Assured for APIs, Appium for Mobile
+
+### Manual and API Testing
+Postman, Swagger, Functional Testing, Regression Testing, Integration Testing, Exploratory Testing
+
+### Performance and Security
+Apache JMeter, OWASP Top 10 Testing, Input Validation Testing
+
+### DevOps and Continuous Integration
+Jenkins, Azure DevOps Pipelines, Docker, Git, GitHub
+
+### Build Tools and Frameworks
+Maven, TestNG, Cucumber, Page Object Model
+
+### Management and Methodologies
+Jira, Agile, Scrum, Waterfall, Defect Lifecycle Management
+
+## Professional Experience
+
+### SQA Engineer at Akashbari Holidays, Banani, Dhaka
+January 2025 to Present
+
+* Formulate comprehensive test plans, test scenarios, and matrix-backed test cases for high-traffic SaaS and Online Travel Agency applications.
+* Execute rigorous functional, regression, API, and exploratory testing to ensure zero-defect leakage into production environments.
+* Integrate Claude Code AI, Generative AI tools, and Prompt Engineering techniques to accelerate test case generation and test data preparation workflows.
+* Collaborate closely with cross-functional development and product teams within an Agile or Scrum framework to resolve critical blockers.
+* Own and maintain end-to-end QA documentation, summary reports, and bug-tracking workflows.
+
+### SQA Engineer at South Maguri Solution, Banani, Dhaka
+January 2024 to January 2025
+
+* Boosted regression testing efficiency by 70 percent by designing and maintaining robust automated test suites using Selenium WebDriver, TestNG, and Maven.
 * Engineered and executed automated API test scripts via Rest Assured and validated backend workflows with Postman.
-* Designed and scheduled automated test runs within CI/CD pipelines (Jenkins/Azure DevOps) for continuous quality feedback.
+* Designed and scheduled automated test runs within CI or CD pipelines using Jenkins and Azure DevOps for continuous quality feedback.
 * Conducted performance and load testing using Apache JMeter to identify bottlenecks and ensure system stability.
-* Managed the end-to-end defect lifecycle using Jira, ensuring precise reporting and verification.
+* Managed the end-to-end defect lifecycle using Jira, ensuring precise reporting, prioritization, and verification.
 
----
+## Portfolios and Projects
 
-## 🚀 Projects
+### Automation and Emerging Tech
 
-### **Automation & Emerging Tech Portfolios**
-* **OrangeHRM & BlazeDemo Automation Frameworks:** Built scalable, maintainable Page Object Model (POM) architectures utilizing Playwright (TS) and Selenium (Java) to validate end-to-end user journeys.
-* **AI-Accelerated Testing Suites (OpenCart & AutomationPractice):** Developed data-driven automated suites handling complex web elements, dynamic synchronization, and augmented test scripts using GitHub Copilot.
-* **API Automation Hub:** Created a Rest Assured and Postman framework to validate RESTful endpoints, payload assertions, and response times.
+#### OrangeHRM and BlazeDemo Automation Frameworks
+Built scalable, maintainable Page Object Model automation architectures utilizing Playwright with TypeScript and Selenium with Java to validate end-to-end user journeys.
 
-### **Core Manual Portfolios**
-* **Akashbari Holidays SaaS & OTA Platforms:** Conducted extensive end-to-end business logic testing, booking engine validations, and payment gateway verifications.
+#### AI-Accelerated Testing Suites for OpenCart and AutomationPractice
+Developed data-driven automated suites handling complex web elements, dynamic synchronization, and augmented test scripts using Claude Code AI and GitHub Copilot for rapid development.
 
----
+#### API Automation Hub
+Created a Rest Assured and Postman framework to validate RESTful endpoints, payload assertions, and response times.
 
-## 🎓 Education
-* **Master of Arts in Islamic Studies** — University of Dhaka (*Passing Year: 2018*)
+### Core Manual Portfolios
+
+#### Akashbari Holidays SaaS and OTA Platforms
+Conducted extensive end-to-end business logic testing, booking engine validations, and payment gateway verifications.
+
+## Certification
+
+### ISTQB Certified Tester Foundation Level
+Global Software Testing Board, License Number available upon request, January 2023
+
+## Education
+
+### Master of Arts in Islamic Studies
+University of Dhaka, Passing Year 2018
